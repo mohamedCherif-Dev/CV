@@ -6,7 +6,7 @@ h1 { text-align:center;
         
           }
 .Coordonées {text-align: right;}
-#interets {margin-left: -60px;
+#interets {margin-left: -28px;
 }
 
 th {text-align: center;
@@ -16,5 +16,4 @@ th {text-align: center;
        
        }
 .langues {width: 250px ;}
-#pro {;
-    }
+.pro {background-color:gray;}
