@@ -1,9 +1,10 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
 }
-@media screen and (max-width:767px){
+@media screen and (max-width:768px){
 
-div{flex-direction: row;}
+.item4{width: 100%;
+        }
 
 }
 body{background-color: whitesmoke ;}
@@ -16,7 +17,8 @@ div{display: flex;
     }
 
 .item4{flex-direction: column;
-       width: 35%;color: rgb(48, 5, 5);
+       width: 35%;
+          color: rgb(48, 5, 5);
             border: 2px solid black;
                 border-radius: 30px;
                      margin-right:15px ;
@@ -45,9 +47,3 @@ h1{
     text-align: center;
         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 }
-
-
-
-
-
-
